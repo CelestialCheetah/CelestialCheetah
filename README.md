@@ -13,3 +13,4 @@
 CelestialCheetah/CelestialCheetah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![GitHub](https://img.shields.io/github/license/CelestialCheetah/QLX-Project?color=red&label=gem&style=flat-square)
