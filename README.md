@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything from analytics to software engineering
 - 🌱 I’m currently learning python via online courses
 - 💞️ I’m looking to collaborate on anything that uses python
-- 📫 How to reach me 
+- 📫 How to reach me ivdknowles@gmail.com
 <!---
 ![image](https://user-images.githubusercontent.com/53583290/113635738-2b63d100-963f-11eb-82cd-03edda8a6140.png)
 --->
